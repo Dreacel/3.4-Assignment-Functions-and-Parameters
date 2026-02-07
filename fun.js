@@ -2,4 +2,4 @@ function sayHello(name) {
   return "Hello " + name;
 }
 
-let greeting = sayHello("John");
+let greeting = sayHello("Sam");
