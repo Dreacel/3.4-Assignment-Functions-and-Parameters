@@ -1,6 +1,5 @@
-function sayhello(name) {
-    return "Hello" + (name)
+function sayHello(name) {
+  return "Hello " + name;
 }
 
-let greetting = sayHello ("Sam");
-
+let greeting = sayHello("John");
